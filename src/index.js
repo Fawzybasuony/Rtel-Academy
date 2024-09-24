@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import Home from "./pagse/Home";
-import Contact from "./pagse/contact/Contact";
-import Packages from "./pagse/Packages/Packages";
-import Abute from "./pagse/Abute";
+import Home from "./pages/Home";
+import Contact from "./pages/contact/Contact";
+import Packages from "./pages/Packages/Packages";
+import Abute from "./pages/Abute";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
  
