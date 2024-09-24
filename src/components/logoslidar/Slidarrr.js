@@ -23,7 +23,7 @@ export default function Slidarrr() {
      {/* Slider_1 */}
 <SwiperSlide>
   <div className="slide-content">
-    <img src="/photo_1 (3).jpg" alt="" />
+    <img src="/photo_1 (3).jpg" alt="..." />
     <div className="caption">
       <p className="text-left text-xl ms-[60px] text-white font-mono pb-14 sm:text-3xl sm:ms-[0] ">
         Discover the ease of learning Arabic and reciting the Quran with our academy, designed to help you achieve your goals quickly and effectively.
@@ -57,7 +57,7 @@ export default function Slidarrr() {
 {/* Slider_2 */}
 <SwiperSlide>
   <div className="slide-content">
-    <img src="/photo_1 (1).jpg" alt="" />
+    <img src="/photo_1 (1).jpg" alt="..." />
     <div className="caption">
       <p className="text-left text-xl ms-[60px] text-black font-mono pb-14 sm:text-3xl sm:ms-[0] ">
         Start your journey of learning the Quran with simplified lessons aimed at helping you achieve a better understanding faster.
@@ -91,7 +91,7 @@ export default function Slidarrr() {
 {/* Slider_3 */}
 <SwiperSlide>
   <div className="slide-content">
-    <img src="/photo_1 (2).jpg" alt="" />
+    <img src="/photo_1 (2).jpg" alt="..." />
     <div className="caption">
       <p className="text-left text-xl ms-[60px] text-white font-mono pb-14 sm:text-3xl sm:ms-[0] ">
         Learn language skills quickly with interactive lessons tailored to meet your needs and enhance your level.

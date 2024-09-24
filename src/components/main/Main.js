@@ -13,7 +13,7 @@ export default function Main() {
             <img
               className="ml-4 w-24 h-24 rounded-xl p-4 bg-slate-100"
               src="https://themazine.com/html/alquran/assets/images/icons/bismillah-2.png"
-              alt=""
+              alt="..."
             />
           </div>
 
@@ -33,7 +33,7 @@ export default function Main() {
           <div className="flex flex-col lg:flex-row items-center mb-6">
             <img
               src="https://themazine.com/html/alquran/assets/images/resource/welcome.jpg"
-              alt=""
+              alt="..."
               className="w-full lg:w-[400px] mb-6 lg:mb-0 rounded-lg"
             />
             <div className="lg:ml-8 text-gray-600">
@@ -46,7 +46,7 @@ export default function Main() {
                 <img
                   className="w-[100px] h-18 -ms-6 cccx"
                   src="/Q'ran.jpg"
-                  alt=""
+                  alt="..."
                 />
                 Learn Online at Your Own Pace
               </p>
@@ -65,12 +65,12 @@ export default function Main() {
           <div className="relative w-full h-[400px] lg:w-[500px]">
             <img
               src="https://themazine.com/html/alquran/assets/images/resource/welcome-1.jpg"
-              alt=""
+              alt="..."
               className="w-full h-full object-cover rounded-lg"
             />
             <img
               src="https://themazine.com/html/alquran/assets/images/icons/ameen-1.png"
-              alt=""
+              alt="..."
               className="Amin absolute bottom-4 right-4 w-[150px] lg:w-[200px]"
             />
           </div>

@@ -21,8 +21,8 @@ export default function Abute() {
           <div className=" ">
             <div className="lg:mx-[100px] font-semibold text-gray-500 ">
               <p className="text-lg mb-4">
-             <span className="text-red-600">We </span>   take pride in over a decade of providing exceptional
-                education in{" "}
+                <span className="text-red-600">We </span> take pride in over a
+                decade of providing exceptional education in{" "}
                 <span className="text-blue-600">Quran memorization</span> and
                 teaching its sciences. Established in{" "}
                 <span className="text-blue-600">[Year]</span>, our academy has
@@ -58,10 +58,10 @@ export default function Abute() {
                 {/* Left column container with background*/}
                 <div className="flex h-full flex-wrap items-center justify-center lg:justify-between">
                   <div className="shrink-1 mb-12 grow-0 basis-auto md:mb-0 md:w-9/12 md:shrink-0 lg:w-6/12 xl:w-6/12">
-                    <img
-                      src="https://tecdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                    <img 
                       className="w-full"
-                      alt="Sample image"
+                      src="https://tecdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                      alt=""
                     />
                   </div>
                   {/* Right column container */}
