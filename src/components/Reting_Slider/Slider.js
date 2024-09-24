@@ -154,7 +154,7 @@ export default function Slider() {
       The lessons are well-organized, and I felt a real sense of achievement by the end of the course.
     </p>
     <h1 className="text-3xl text-gray-500">
-      <span className="text-red-500 text-5xl"> &#10077; </span>mona Ahmed
+      <span className="text-red-500 text-5xl"> &#10077; </span>Mona Mahmoud
     </h1>
   </div>
 </SwiperSlide>
@@ -183,7 +183,7 @@ export default function Slider() {
       Excellent program! I have learned so much in a short period of time, and the instructors are very knowledgeable.
     </p>
     <h1 className="text-3xl text-gray-500">
-      <span className="text-red-500 text-5xl"> &#10077; </span>Asmaa Maher
+      <span className="text-red-500 text-5xl"> &#10077; </span>Aiat Maher
     </h1>
   </div>
 </SwiperSlide>
