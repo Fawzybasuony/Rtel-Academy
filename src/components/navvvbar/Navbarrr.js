@@ -27,7 +27,7 @@ export default function Navbarrr() {
             <div className="ms-[-0px] sm:ms-[-0px] header-item flex items-center justify-center">
               <i className="me-4 fa-solid fa-envelope text-gray-500"></i>
               <p className=" text-center">
-                Suite 80 Golden Street Germeneyt
+              mahmoudgha161997@gmail.com
               </p>
             </div>
 

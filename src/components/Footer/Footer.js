@@ -139,7 +139,7 @@ export default function Footer() {
                   href="tel:0124-64XXXX"
                   target="_self"
                 >
-                  <i className="fa-regular fa-envelope"></i> Fawzy123@gmail.com
+                  <i className="fa-regular fa-envelope"></i>  mahmoudgha161997@gmail.com
                 </a>
               </p>
 
