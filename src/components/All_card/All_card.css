@@ -1,0 +1,12 @@
+.logoo {
+  position: relative;
+  bottom: 40px;
+  border-radius: 50%;
+  background-color: rgba(240, 235, 235, 0.913);
+  padding: 2px;
+}
+
+.logoo:hover {
+  bottom: 55px;
+  transition: all 0.5s;
+}

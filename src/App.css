@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.UP{
+    position: fixed;
+    right: 20px;
+    top: 80vh;
+    width: 35px !important;
+    height: 35px !important;
+  z-index: 999;
+    border-radius: 50% !important;
+    background-color: rgb(49, 183, 49) !important;
+    color: white;
+  }
+  
+  .Whatsap {
+    position: fixed;
+    left: 20px;
+    top: 80vh;
+    z-index: 999;
+  }
+  
+  .Whatsap,.Amin{
+    width: 64px; /* حجم الأيقونة */
+    height: 64px;
+    border-radius: 50%;
+    animation: moveUpAndDown 1.5s infinite; /* تطبيق الحركة */
+  }
+  
+  @keyframes moveUpAndDown {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-40px); /* المسافة اللي تتحركها الأيقونة للأعلى */
+    }
+  }
+  
+
