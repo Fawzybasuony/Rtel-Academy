@@ -126,7 +126,7 @@ export default function Footer() {
               <p className="footer-call-to-action-link-wrapper">
                 <a
                   className="footer-call-to-action-link"
-                  href="tel:+2 01098343366"
+                  href="tel:+2 01026130670"
                   target="_self"
                 >
                   <i className="fa-solid fa-phone"></i> +2 01026130670
