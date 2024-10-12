@@ -130,16 +130,18 @@ export default function Footer() {
                   target="_self"
                 >
                   <i className="fa-solid fa-phone"></i> +2 01098343366
+                  <br />
+                  <i className="fa-solid fa-phone"></i> +2 01026130670
                 </a>
               </p>
 
               <p className="footer-call-to-action-link-wrapper">
                 <a
                   className="footer-call-to-action-link"
-                  href="tel:0124-64XXXX"
+                  href="tel:+2 01098343366"
                   target="_self"
                 >
-                  <i className="fa-regular fa-envelope"></i>  mahmoudgha161997@gmail.com
+                  <i className="fa-brands fa-telegram"></i> +2 01098343366
                 </a>
               </p>
 
@@ -149,13 +151,13 @@ export default function Footer() {
                   href="tel:+201098343366"
                   target="_self"
                 >
-                  <i className="fa-brands fa-telegram"></i> +2 01098343366
+                  <i className="fa-regular fa-envelope"></i>{" "}
+                  rtelacademy@gmail.com
                 </a>
               </p>
             </div>
           </div>
           <div className="footer-social-links">
-         
             <svg
               className="footer-social-amoeba-svg"
               xmlns="http://www.w3.org/2000/svg"
@@ -168,7 +170,7 @@ export default function Footer() {
             </svg>
             <Link
               className="footer-social-link linkedin"
-              to="https://wa.me/01060618915"
+              to="https://wa.me/+201026130670"
               target="_blank"
             >
               <span className="hidden-link-text">Linkedin</span>
@@ -183,7 +185,11 @@ export default function Footer() {
               </svg>
             </Link>
 
-            <Link className="footer-social-link twitter" to="#" target="_blank">
+            <Link
+              className="footer-social-link twitter"
+              to="https://x.com/Rtelacademy?t=8SQW3OIqqogRu9scIvzq1A&s=08&mx=2"
+              target="_blank"
+            >
               <span className="hidden-link-text">Twitter</span>
               <svg
                 className="footer-social-icon-svg  w-6"
@@ -213,11 +219,11 @@ export default function Footer() {
 
             <Link
               className="footer-social-link github"
-              href="https://wa.me/01060618915"
+              href="https://www.instagram.com/rtelacademy?igsh=MTZnNGFhMm5uOHo5Yw=="
               target="_blank"
+              rel="noopener noreferrer"
             >
-              <span className="hidden-link-text ">Instagram</span>
-
+              <span className="hidden-link-text">Instagram</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="footer-social-icon-svg w-6"
@@ -228,8 +234,6 @@ export default function Footer() {
                 <path d="M16 7.787A8.213 8.213 0 1 0 16 24.426a8.213 8.213 0 0 0 0-16.639zm0 13.533a5.32 5.32 0 1 1 0-10.639 5.32 5.32 0 0 1 0 10.639zM24.625 4.844a1.922 1.922 0 1 0 0 3.844 1.922 1.922 0 0 0 0-3.844z" />
               </svg>
             </Link>
-
-
           </div>
         </div>
         <div className="footer-copyright">

@@ -85,12 +85,13 @@ export default function Contact() {
                     <h5 className="text-xl font-semibold">Phone</h5>
                     <ul className="mt-2 text-gray-600">
                       <li>+2(01098343366)</li>
+                      <li>+2(01026130670)</li>
                     </ul>
                   </div>
                   <div className="cw-item">
                     <h5 className="text-xl font-semibold">E-mail</h5>
                     <ul className="mt-2 text-gray-600">
-                      <li>contact@violetstore.com</li>
+                      <li>rtelacademy@gmail.com</li>
                       <li>www.violetstore.com</li>
                     </ul>
                   </div>

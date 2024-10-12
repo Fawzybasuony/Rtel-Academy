@@ -20,14 +20,14 @@ export default function Navbarrr() {
               <i className="me-4 fa-solid fa-phone text-gray-500"></i>
 
               <p className="text-center md:text-left">
-                Let’s Talk +2 01098343366
+                Let’s Talk +2 01026130670
               </p>
             </div>
 
             <div className="ms-[-0px] sm:ms-[-0px] header-item flex items-center justify-center">
               <i className="me-4 fa-solid fa-envelope text-gray-500"></i>
               <p className=" text-center">
-              mahmoudgha161997@gmail.com
+              rtelacademy@gmail.com
               </p>
             </div>
 
