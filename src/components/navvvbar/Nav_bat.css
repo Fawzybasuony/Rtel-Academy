@@ -47,12 +47,7 @@
   Header Info
 -----------------------*/
 
-.header-info {
-  background: #b0bcc2;
-  overflow: hidden;
-  padding: 10px 45px;
-}
-
+ 
 .header-info .header-item {
   overflow: hidden;
 }

@@ -59,7 +59,7 @@ export default function Slidarrr() {
   <div className="slide-content">
     <img src="/photo_1 (1).jpg" alt=" " />
     <div className="caption">
-      <p className="text-left text-xl ms-[60px] text-black font-mono pb-14 sm:text-3xl sm:ms-[0] ">
+      <p className="text-left text-xl ms-[60px] text-white font-mono pb-14 sm:text-3xl sm:ms-[0] ">
         Start your journey of learning the Quran with simplified lessons aimed at helping you achieve a better understanding faster.
       </p>
 

@@ -22,7 +22,7 @@ export default function Footer() {
           <div className="footer-content-column">
             <div className="footer-logo"></div>
             <div className="footer-menu">
-              <h2 className="text-xl font-semibold text-red-500">
+              <h2 className="text-2xl font-semibold text-yellow-300">
                 {" "}
                 Rtel Academy{" "}
               </h2>

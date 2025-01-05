@@ -13,31 +13,21 @@ export default function Navbarrr() {
   };
   return (
     <>
-      <div className="header-info bg-gray-400 ">
-        <div className="container mx-auto  ">
-          <div className=" grid grid-cols-1 md:grid-cols-3 gap-4">
-            <div className="ms-[-50px] sm:ms-[-0px] header-item flex items-center justify-center">
-              <i className="me-4 fa-solid fa-phone text-gray-500"></i>
+      <div className=" grid grid-cols-1 md:grid-cols-3 font-medium md:flex justify-around text-gray-500 p-3">
+        <div className="flex items-center">
+          <i className="pe-4 fa-solid fa-phone  "></i>
 
-              <p className="text-center md:text-left">
-                Let’s Talk +2 01026130670
-              </p>
-            </div>
+          <p>Let’s Talk +2 01026130670</p>
+        </div>
 
-            <div className="ms-[-0px] sm:ms-[-0px] header-item flex items-center justify-center">
-              <i className="me-4 fa-solid fa-envelope text-gray-500"></i>
-              <p className=" text-center">
-              rtelacademy@gmail.com
-              </p>
-            </div>
+        <div className="flex items-center">
+          <i className="pe-4 fa-solid fa-envelope "></i>
+          <p className=" text-center">rtelacademy@gmail.com</p>
+        </div>
 
-            <div className="ms-[-142px] sm:ms-[-0px] header-item flex items-center justify-center">
-              <i className="me-4 fa-solid fa-location-pin text-gray-500"></i>
-              <p className="text-center md:text-right py-2">
-              Egypt Cairo  
-              </p>
-            </div>
-          </div>
+        <div className="flex items-center">
+          <i className="pe-4 fa-solid fa-location-pin  "></i>
+          <p className="text-center  ">Egypt Cairo</p>
         </div>
       </div>
 
