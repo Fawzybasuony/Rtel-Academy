@@ -1,5 +1,5 @@
 import React from "react";
-import Navbarrr from "../../components/navvvbar/Navbarrr";
+import Navbarrr from "../../components/Nav_bar/Nav_bar";
 import Footer from "../../components/Footer/Footer";
 
 export default function Packages() {

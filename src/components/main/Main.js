@@ -11,7 +11,7 @@ export default function Main() {
               Islamic Online Madrasah
             </p>
             <img
-              className="ml-4 w-24 h-24 rounded-xl p-4 bg-slate-100"
+              className="ml-4 w-24 h-24 rounded-xl p-4 "
               src="https://themazine.com/html/alquran/assets/images/icons/bismillah-2.png"
               alt=" "
             />
@@ -20,7 +20,7 @@ export default function Main() {
           {/* Welcome Section */}
           <div className="w-full lg:w-[700px] mb-6">
             <h1 className="text-2xl lg:text-3xl font-bold text-black mb-4">
-            Welcome to Rtel Academy
+              Welcome to Rtel Academy
             </h1>
             <p className="text-gray-500 text-lg leading-relaxed">
               We welcome our users to Online Quran teaching services where we
@@ -30,14 +30,15 @@ export default function Main() {
           </div>
 
           {/* Image and Description */}
-          <div className="flex flex-col lg:flex-row items-center mb-6">
+          <div className="  md:flex justify-between  items-center mb-6">
             <img
               src="https://themazine.com/html/alquran/assets/images/resource/welcome.jpg"
-              alt=" "
-              className="w-full lg:w-[400px] mb-6 lg:mb-0 rounded-lg"
+              alt="photo_main"
+              className="w-full max-h-44 object-fill rounded-lg md:me-10"
             />
-            <div className="lg:ml-8 text-gray-600">
-              <p className="leading-relaxed">
+
+            <div className=" text-gray-600">
+              <p className="leading-relaxed pt-2">
                 There are many variations of passages of lorem ipsum available,
                 but the majority have suffered business consulting.
               </p>
@@ -46,7 +47,7 @@ export default function Main() {
                 <img
                   className="w-[100px] h-18 -ms-6 cccx"
                   src="/Q'ran.jpg"
-                  alt=" "
+                  alt="Q'ran.jpg "
                 />
                 Learn Online at Your Own Pace
               </p>
@@ -61,17 +62,17 @@ export default function Main() {
         </div>
 
         {/* Right Section with Images */}
-        <div className="flex justify-center items-center mt-20">
+        <div className="flex justify-center items-center mt-10">
           <div className="relative w-full h-[400px] lg:w-[500px]">
             <img
               src="https://themazine.com/html/alquran/assets/images/resource/welcome-1.jpg"
-              alt=" "
-              className="w-full h-full object-cover rounded-lg"
+              alt="main_home"
+              className="w-full h-96 object-cover rounded-lg"
             />
             <img
               src="https://themazine.com/html/alquran/assets/images/icons/ameen-1.png"
-              alt=" "
-              className="Amin absolute bottom-4 right-4 w-[150px] lg:w-[200px]"
+              alt=" main_home_2"
+              className="Amin absolute bottom-6 right-4 w-[150px] lg:w-[200px]"
             />
           </div>
         </div>

@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import React from "react";
-import Navbarrr from "../../components/navvvbar/Navbarrr";
+import Navbarrr from "../../components/Nav_bar/Nav_bar";
 import Footer from "../../components/Footer/Footer";
 import "./contact.css";
 
@@ -10,7 +10,7 @@ export default function Contact() {
       <Navbarrr />
 
       <div>
-        <section className="page-add py-10 ">
+        <section className="page-add   ">
           <div className="container mx-auto">
             <div className="flex flex-col lg:flex-row">
               <div className="lg:w-1/3">
@@ -18,18 +18,14 @@ export default function Contact() {
                   <h2 className="text-4xl font-semibold">
                     Contact us<span>.</span>
                   </h2>
-                  <div className="flex gap-3 mt-3 text-gray-400">
-                    <p>Home/ </p>
-                    <p>Dresses/ </p>
-                    <p>Night/ Dresses</p>
-                  </div>
+             
                 </div>
               </div>
             </div>
           </div>
         </section>
 
-        <div className="contact-section py-16">
+        <div className="contact-section ">
           <div className="container mx-auto">
             <div className="flex flex-col lg:flex-row">
               <div className="lg:w-2/3">
